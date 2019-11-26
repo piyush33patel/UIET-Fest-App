@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Home">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentBottom="true"
+        android:layout_gravity="center"
+        android:layout_marginTop="146dp"
+        android:layout_marginBottom="222dp"
+        android:text="HELLO, Welcome to Technospandan- the annual fest of UIET. \n\n.This application might not be physically appealing but it is quite functional.\n\nEnjoy your participations."
+        android:textAlignment="center" />
+</RelativeLayout>

@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">UIET Fest</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="tab_text_1">CULTURAL</string>
+    <string name="tab_text_2">TECHNICAL</string>
+    <string name="tab_text_3">SPORTS</string>
+
+    <string-array name="departments">
+        <item>-Select your Department-</item>
+        <item>B.TECH</item>
+        <item>BCA</item>
+        <item>MCA</item>
+        <item>MSc</item>
+        <item>Fashion</item>
+    </string-array>
+    <string-array name="branches">
+        <item>-Select your Branch-</item>
+        <item>Not Applicable</item>
+        <item>CSE</item>
+        <item>MEE</item>
+        <item>CHE</item>
+        <item>ECE</item>
+        <item>IT</item>
+        <item>MSME</item>
+    </string-array>
+    <string-array name="year">
+        <item>-Select your Year-</item>
+        <item>I</item>
+        <item>II</item>
+        <item>III</item>
+        <item>IV</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
