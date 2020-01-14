@@ -59,7 +59,7 @@ public class HisEventsList extends AppCompatActivity {
 
         listView = (ListView)findViewById(R.id.his_event);
 
-        StringRequest stringRequest = new StringRequest(Request.Method.POST,"https://websiteasofjunetwelve.000webhostapp.com/UIETApp/YourParticipationList.php",
+        StringRequest stringRequest = new StringRequest(Request.Method.POST, Constants.URL_PARTICIPATION_LIST,
                 new Response.Listener<String>() {
                     @Override
                     public void onResponse(String response) {
@@ -140,7 +140,7 @@ public class HisEventsList extends AppCompatActivity {
 
     private void deleteDialog(final String userEmail, final String title){
         StringRequest stringRequest = new StringRequest(Request.Method.POST,
-                "https://websiteasofjunetwelve.000webhostapp.com/UIETApp/DeleteParticipation.php",
+                Constants.URL_DELETE_PARTICIPATION,
                 new Response.Listener<String>() {
                     @Override
                     public void onResponse(String response) {
