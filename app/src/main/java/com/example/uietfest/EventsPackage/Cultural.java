@@ -60,7 +60,7 @@ public class Cultural extends Fragment {
         listView = (ListView)view.findViewById(R.id.list_view_cultural);
         progressDialog.setMessage("Loading...");
         progressDialog.show();
-        jar = new JsonArrayRequest("https://websiteasofjunetwelve.000webhostapp.com/UIETApp/FetchCultural.php", new Response.Listener<JSONArray>() {
+        jar = new JsonArrayRequest(Constants.URL_FETCH_CULTURAL, new Response.Listener<JSONArray>() {
             @Override
             public void onResponse(JSONArray response) {
                 progressDialog.dismiss();
@@ -111,15 +111,11 @@ public class Cultural extends Fragment {
         return view;
     }
 
-
-    //added
-
-
     private void showStatus(final int index, final String userEmail){
         progressDialog.show();
 
         StringRequest stringRequest = new StringRequest(Request.Method.POST,
-                "https://websiteasofjunetwelve.000webhostapp.com/UIETApp/ShowDialog.php",
+                Constants.URL_SHOW_DIALOG,
                 new Response.Listener<String>() {
                     @Override
                     public void onResponse(String response) {
@@ -188,8 +184,7 @@ public class Cultural extends Fragment {
 
     private void doParticipation(final String userEmail, final String title){
         progressDialog.show();
-        StringRequest stringRequest = new StringRequest(Request.Method.POST,
-                "https://websiteasofjunetwelve.000webhostapp.com/UIETApp/ParticipateStudent.php",
+        StringRequest stringRequest = new StringRequest(Request.Method.POST,Constants.URL_PARTICIPTE_STUDENT,
                 new Response.Listener<String>() {
                     @Override
                     public void onResponse(String response) {
@@ -219,7 +214,4 @@ public class Cultural extends Fragment {
         };
         RequestHandler.getInstance(getContext()).addToRequestQueue(stringRequest);
     }
-
-    //added
-
 }
