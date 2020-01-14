@@ -20,9 +20,9 @@ public class Events extends Fragment {
 
         SectionPagerAdapter sectionsPagerAdapter = new SectionPagerAdapter(getContext(), getChildFragmentManager());
         ViewPager viewPager = view.findViewById(R.id.view_pager);
-        //changed
+        /*This will load all the fragments once and keep from reloading them while swiping.*/
         viewPager.setOffscreenPageLimit(3);
-        //changed
+        /*This will load all the fragments once and keep from reloading them while swiping.*/
         viewPager.setAdapter(sectionsPagerAdapter);
         TabLayout tabs = view.findViewById(R.id.tabs);
         tabs.setupWithViewPager(viewPager);
