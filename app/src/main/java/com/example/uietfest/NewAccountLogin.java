@@ -126,13 +126,10 @@ public class NewAccountLogin extends AppCompatActivity {
 
                             Toast.makeText(getApplicationContext(), jsonObject.getString("message"), Toast.LENGTH_LONG).show();
 
-
-                            //changed
                             FragmentManager fragmentManager = getSupportFragmentManager();
                             FragmentTransaction fragmentTransaction = fragmentManager.beginTransaction();
                             fragmentTransaction.replace(R.id.layoutID, new BottomNavigation());
                             fragmentTransaction.commit();
-                            //changed
 
                         } catch (JSONException e) {
                             e.printStackTrace();
