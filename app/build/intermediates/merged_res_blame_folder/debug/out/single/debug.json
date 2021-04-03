@@ -1,0 +1,130 @@
+[
+    {
+        "merged": "/home/piyush/AndroidStudioProjects/UIET-Fest-App/app/build/intermediates/res/merged/debug/drawable_ic_notifications_black_24dp.xml.flat",
+        "source": "/home/piyush/AndroidStudioProjects/UIET-Fest-App/app/src/main/res/drawable/ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "/home/piyush/AndroidStudioProjects/UIET-Fest-App/app/build/intermediates/res/merged/debug/drawable_ic_account_circle_black_24dp.xml.flat",
+        "source": "/home/piyush/AndroidStudioProjects/UIET-Fest-App/app/src/main/res/drawable/ic_account_circle_black_24dp.xml"
+    },
+    {
+        "merged": "/home/piyush/AndroidStudioProjects/UIET-Fest-App/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/piyush/AndroidStudioProjects/UIET-Fest-App/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/piyush/AndroidStudioProjects/UIET-Fest-App/app/build/intermediates/res/merged/debug/layout_fragment_sports.xml.flat",
+        "source": "/home/piyush/AndroidStudioProjects/UIET-Fest-App/app/src/main/res/layout/fragment_sports.xml"
+    },
+    {
+        "merged": "/home/piyush/AndroidStudioProjects/UIET-Fest-App/app/build/intermediates/res/merged/debug/layout_fragment_bottom_navigation.xml.flat",
+        "source": "/home/piyush/AndroidStudioProjects/UIET-Fest-App/app/src/main/res/layout/fragment_bottom_navigation.xml"
+    },
+    {
+        "merged": "/home/piyush/AndroidStudioProjects/UIET-Fest-App/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/piyush/AndroidStudioProjects/UIET-Fest-App/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/piyush/AndroidStudioProjects/UIET-Fest-App/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/home/piyush/AndroidStudioProjects/UIET-Fest-App/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/piyush/AndroidStudioProjects/UIET-Fest-App/app/build/intermediates/res/merged/debug/layout_activity_new_account_login.xml.flat",
+        "source": "/home/piyush/AndroidStudioProjects/UIET-Fest-App/app/src/main/res/layout/activity_new_account_login.xml"
+    },
+    {
+        "merged": "/home/piyush/AndroidStudioProjects/UIET-Fest-App/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/piyush/AndroidStudioProjects/UIET-Fest-App/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/piyush/AndroidStudioProjects/UIET-Fest-App/app/build/intermediates/res/merged/debug/menu_bottom_nav_menu.xml.flat",
+        "source": "/home/piyush/AndroidStudioProjects/UIET-Fest-App/app/src/main/res/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "/home/piyush/AndroidStudioProjects/UIET-Fest-App/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/piyush/AndroidStudioProjects/UIET-Fest-App/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/piyush/AndroidStudioProjects/UIET-Fest-App/app/build/intermediates/res/merged/debug/layout_his_events_list.xml.flat",
+        "source": "/home/piyush/AndroidStudioProjects/UIET-Fest-App/app/src/main/res/layout/his_events_list.xml"
+    },
+    {
+        "merged": "/home/piyush/AndroidStudioProjects/UIET-Fest-App/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/piyush/AndroidStudioProjects/UIET-Fest-App/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/piyush/AndroidStudioProjects/UIET-Fest-App/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/piyush/AndroidStudioProjects/UIET-Fest-App/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/piyush/AndroidStudioProjects/UIET-Fest-App/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/home/piyush/AndroidStudioProjects/UIET-Fest-App/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/piyush/AndroidStudioProjects/UIET-Fest-App/app/build/intermediates/res/merged/debug/layout_fragment_account.xml.flat",
+        "source": "/home/piyush/AndroidStudioProjects/UIET-Fest-App/app/src/main/res/layout/fragment_account.xml"
+    },
+    {
+        "merged": "/home/piyush/AndroidStudioProjects/UIET-Fest-App/app/build/intermediates/res/merged/debug/layout_fragment_login_page.xml.flat",
+        "source": "/home/piyush/AndroidStudioProjects/UIET-Fest-App/app/src/main/res/layout/fragment_login_page.xml"
+    },
+    {
+        "merged": "/home/piyush/AndroidStudioProjects/UIET-Fest-App/app/build/intermediates/res/merged/debug/layout_fragment_events.xml.flat",
+        "source": "/home/piyush/AndroidStudioProjects/UIET-Fest-App/app/src/main/res/layout/fragment_events.xml"
+    },
+    {
+        "merged": "/home/piyush/AndroidStudioProjects/UIET-Fest-App/app/build/intermediates/res/merged/debug/drawable_ic_home_black_24dp.xml.flat",
+        "source": "/home/piyush/AndroidStudioProjects/UIET-Fest-App/app/src/main/res/drawable/ic_home_black_24dp.xml"
+    },
+    {
+        "merged": "/home/piyush/AndroidStudioProjects/UIET-Fest-App/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/home/piyush/AndroidStudioProjects/UIET-Fest-App/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/piyush/AndroidStudioProjects/UIET-Fest-App/app/build/intermediates/res/merged/debug/layout_fragment_cultural.xml.flat",
+        "source": "/home/piyush/AndroidStudioProjects/UIET-Fest-App/app/src/main/res/layout/fragment_cultural.xml"
+    },
+    {
+        "merged": "/home/piyush/AndroidStudioProjects/UIET-Fest-App/app/build/intermediates/res/merged/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/piyush/AndroidStudioProjects/UIET-Fest-App/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/piyush/AndroidStudioProjects/UIET-Fest-App/app/build/intermediates/res/merged/debug/layout_activity_his_events_list.xml.flat",
+        "source": "/home/piyush/AndroidStudioProjects/UIET-Fest-App/app/src/main/res/layout/activity_his_events_list.xml"
+    },
+    {
+        "merged": "/home/piyush/AndroidStudioProjects/UIET-Fest-App/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/home/piyush/AndroidStudioProjects/UIET-Fest-App/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/piyush/AndroidStudioProjects/UIET-Fest-App/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/piyush/AndroidStudioProjects/UIET-Fest-App/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/piyush/AndroidStudioProjects/UIET-Fest-App/app/build/intermediates/res/merged/debug/layout_fragment_technical.xml.flat",
+        "source": "/home/piyush/AndroidStudioProjects/UIET-Fest-App/app/src/main/res/layout/fragment_technical.xml"
+    },
+    {
+        "merged": "/home/piyush/AndroidStudioProjects/UIET-Fest-App/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/piyush/AndroidStudioProjects/UIET-Fest-App/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/piyush/AndroidStudioProjects/UIET-Fest-App/app/build/intermediates/res/merged/debug/drawable_ic_dashboard_black_24dp.xml.flat",
+        "source": "/home/piyush/AndroidStudioProjects/UIET-Fest-App/app/src/main/res/drawable/ic_dashboard_black_24dp.xml"
+    },
+    {
+        "merged": "/home/piyush/AndroidStudioProjects/UIET-Fest-App/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/piyush/AndroidStudioProjects/UIET-Fest-App/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/piyush/AndroidStudioProjects/UIET-Fest-App/app/build/intermediates/res/merged/debug/layout_fragment_home.xml.flat",
+        "source": "/home/piyush/AndroidStudioProjects/UIET-Fest-App/app/src/main/res/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/home/piyush/AndroidStudioProjects/UIET-Fest-App/app/build/intermediates/res/merged/debug/layout_list_items.xml.flat",
+        "source": "/home/piyush/AndroidStudioProjects/UIET-Fest-App/app/src/main/res/layout/list_items.xml"
+    },
+    {
+        "merged": "/home/piyush/AndroidStudioProjects/UIET-Fest-App/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/piyush/AndroidStudioProjects/UIET-Fest-App/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    }
+]
